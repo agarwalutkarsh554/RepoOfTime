@@ -1,9 +1,7 @@
 # Email
-
 This is a SMTP application that sends an attachment out using [MailKit](https://github.com/jstedfast/MailKit) and [MineKit](https://github.com/jstedfast/MimeKit). This is a standalone application to send out emails if your printer application does not send a email out.
 
 ## Building
-
 Use Visual Studio 2019 to build the project in Windows. Use ``` dotnet build ``` to build in Linux. You need Dotnet 5 SDK to build.
 
 ## Usage
