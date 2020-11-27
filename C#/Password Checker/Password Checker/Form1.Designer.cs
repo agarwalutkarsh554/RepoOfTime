@@ -323,4 +323,3 @@ namespace Password_Checker
         private System.Windows.Forms.Label Comp_two;
     }
 }
-

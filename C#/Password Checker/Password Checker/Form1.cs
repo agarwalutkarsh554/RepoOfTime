@@ -87,7 +87,6 @@ namespace Password_Checker
             }
         }
 
-
         private void Password_two_TextChanged(object sender, EventArgs e)
         {
             try
