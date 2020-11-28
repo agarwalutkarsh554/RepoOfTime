@@ -14,4 +14,4 @@ These are my C# projects. See the Contributing.md the in root of the repository.
 
 ### Notice ###
 
-Any projects that are *italicized* need to run ``` git submodule update --init --recursive ```.
+Any projects that are *italicized* need to run `git submodule update --init --recursive`.
