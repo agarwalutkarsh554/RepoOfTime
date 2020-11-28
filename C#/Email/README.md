@@ -8,7 +8,7 @@ Use Visual Studio 2019 to build the project in Windows. Use ``` dotnet build ```
 
 ## Usage
 
-```commandline
+```
 Email.exe File_Path_Here
 ```
 
