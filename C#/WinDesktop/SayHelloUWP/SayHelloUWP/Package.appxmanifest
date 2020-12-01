@@ -7,11 +7,11 @@
   IgnorableNamespaces="uap mp">
 
   <Identity
-    Name="08fa3988-fe40-414b-8e11-575c1afa85ef"
+    Name="25b6d864-d49e-4f39-8f49-015965cb146d"
     Publisher="CN=Samgo"
     Version="1.0.0.0" />
 
-  <mp:PhoneIdentity PhoneProductId="08fa3988-fe40-414b-8e11-575c1afa85ef" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
+  <mp:PhoneIdentity PhoneProductId="25b6d864-d49e-4f39-8f49-015965cb146d" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
     <DisplayName>SayHelloUWP</DisplayName>
