@@ -38,9 +38,9 @@ namespace Password_Checker
                     Password_One.Text = AOORE;
                     Password_One.SelectAll();
                 }
-                
+
                 var Passwd_One = Zxcvbn.Core.EvaluatePassword(Password_One.Text);
-                
+
                 switch (Passwd_One.Score)
                 {
                     case 0:
