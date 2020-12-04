@@ -1,13 +1,13 @@
 # Contributors.md
 
 Add yourself in this format:
-```
+```markdown
 
 | Name | Programing Language | Project | Lines | Notes & Contributions |
 
 ```
 
-## Contributers
+## Contributors
 
 | Name | Programing Language | Project | Lines | Notes & Contributions |
-| ---- | ------------------- | ------- | ----- | --------------------- |
+|-----:|---------------------|---------|-------|-----------------------|
