@@ -1,8 +1,18 @@
-# C# #
+# CSharp
 
-These are my C# projects. See the Contributing.md the in root of the repository.
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 
-## Projects ##
+<!-- code_chunk_output -->
+
+- [CSharp](#csharp)
+  - [Projects](#projects)
+  - [Notice](#notice)
+
+<!-- /code_chunk_output -->
+
+C# projects for DotNet and Visual Studio 2017 and 2019 in this sub-repository. See the Contributing.md the in root of the repository for contributing.
+
+## Projects
 
 - DotNetDebugging
 - DotNetDependencies
@@ -15,6 +25,6 @@ These are my C# projects. See the Contributing.md the in root of the repository.
   - SayHelloWFA
   - SayHelloWPF
 
-### Notice ###
+## Notice
 
 Any projects that are *italicized* need to run `git submodule update --init --recursive`.
