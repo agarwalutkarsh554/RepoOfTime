@@ -4,9 +4,11 @@ MS DotNetDebugging tutorial. More at docs.microsoft.com/learn
 
 ## Usage
 
-```commandline
+```dotnetcli
 dotnet run
 ```
+
+Use Visual Studio Code for debugging.
 
 ## Contributing
 

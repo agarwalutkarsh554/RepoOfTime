@@ -4,9 +4,11 @@ MS DotNetDependencies tutorial. More at docs.microsoft.com/learn
 
 ## Usage
 
-```commandline
+```dotnetcli
 dotnet run
 ```
+
+Use an editor to view the code.
 
 ## Contributing
 
