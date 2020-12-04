@@ -4,11 +4,11 @@ This is a SMTP application that sends an attachment out using [MailKit](https://
 
 ## Building
 
-Use Visual Studio 2019 to build the project in Windows. Use ``` dotnet build ``` to build in Linux. You need Dotnet 5 SDK to build.
+Use Visual Studio 2019 to build the project in Windows. Use `dotnet build` to build in Linux. You need Dotnet 5 SDK to build.
 
 ## Usage
 
-```
+```dotnetcli
 Email.exe File_Path_Here
 ```
 
