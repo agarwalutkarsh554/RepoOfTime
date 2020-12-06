@@ -1,16 +1,16 @@
-# DotNetDebugging
+# SayHelloWPF
 
 ---
 
-MS DotNetDebugging tutorial. More at docs.microsoft.com/learn
+MS Tutorial For the Windows Presentation Foundation.
+
+## Building
+
+Use Visual Studio 2017 or later to build.
 
 ## Usage
 
-```dotnetcli
-dotnet run
-```
-
-Use an editor to view the code. Use Visual Studio Code for editing and debugging. Open this folder for a better folder structure in VSC.
+Click run in VS.
 
 ## Contributing
 
