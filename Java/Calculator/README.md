@@ -1,7 +1,6 @@
-# blinmaker
+# Calculator
 
-A tutorial of Java from [Life of Boris](https://www.youtube.com/c/LifeofBoris). A simple cake calculator.
-See this [video](https://youtu.be/FMIZEfjYmtM) to learn more.
+The C# Calculator tutorial for VS is remade in Java. Mostly remade.
 
 ## Usage
 

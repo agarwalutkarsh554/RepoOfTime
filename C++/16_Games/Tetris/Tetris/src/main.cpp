@@ -45,7 +45,7 @@ int main()
     Sprite s(t1), background(t2), frame(t3);
 
     int dx=0; bool rotate=0; int colorNum=1;
-    float timer=0,delay=0.3; 
+    float timer=0,delay=0.3;
 
     Clock clock;
 
