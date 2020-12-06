@@ -1,16 +1,10 @@
-# DotNetDebugging
+# HelloWorld
 
----
-
-MS DotNetDebugging tutorial. More at docs.microsoft.com/learn
+Eclipse Tutorial of Hello World for java.
 
 ## Usage
 
-```dotnetcli
-dotnet run
-```
-
-Use an editor to view the code. Use Visual Studio Code for editing and debugging. Open this folder for a better folder structure in VSC.
+Use Eclipse 2020-09 to open the project in the root of the sub-repository Java. Then open the project in the IDE. Click run in the IDE to run.
 
 ## Contributing
 
