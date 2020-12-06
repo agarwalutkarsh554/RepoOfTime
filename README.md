@@ -1,5 +1,20 @@
 # CodingHobby
 
+<<<<<<< HEAD
+=======
+---
+
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
+
+<!-- code_chunk_output -->
+
+- [CodingHobby](#codinghobby)
+  - [Contributing](#contributing)
+  - [License](#license)
+
+<!-- /code_chunk_output -->
+
+>>>>>>> 4dab9f2 (Change Readmes)
 Random coding projects that I do sometimes.
 Trying things out or following docs.microsoft.com tutorials.
 
