@@ -1,16 +1,14 @@
-# DotNetDebugging
+# amhello
 
----
+The Hello World tutorial fot GNU automake.
 
-MS DotNetDebugging tutorial. More at docs.microsoft.com/learn
+## Building & Usage
 
-## Usage
-
-```dotnetcli
-dotnet run
+```bash
+autoreconf --install
+./configure
+make
 ```
-
-Use Visual Studio Code for debugging.
 
 ## Contributing
 

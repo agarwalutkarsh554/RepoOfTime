@@ -1,7 +1,6 @@
-# blinmaker
+# HelloWorld
 
-A tutorial of Java from [Life of Boris](https://www.youtube.com/c/LifeofBoris). A simple cake calculator.
-See this [video](https://youtu.be/FMIZEfjYmtM) to learn more.
+Eclipse Tutorial of Hello World for java.
 
 ## Usage
 

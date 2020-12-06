@@ -1,16 +1,16 @@
-# DotNetDebugging
+# AwesomeApp
 
 ---
 
-MS DotNetDebugging tutorial. More at docs.microsoft.com/learn
+A .Net Tutorial on Xamarin for mobile devices.
+
+## Building
+
+Use Visual Studio 2019 to build the project.
 
 ## Usage
 
-```dotnetcli
-dotnet run
-```
-
-Use Visual Studio Code for debugging.
+Use an Android phone or emulator to run the app in VS2019.
 
 ## Contributing
 

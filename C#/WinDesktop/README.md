@@ -1,16 +1,14 @@
-# DotNetDebugging
+# WinDesktop
 
 ---
 
-MS DotNetDebugging tutorial. More at docs.microsoft.com/learn
+MS Tutorials for building Windows 7 later and UWP apps using .Net.
 
-## Usage
+## Projects
 
-```dotnetcli
-dotnet run
-```
-
-Use Visual Studio Code for debugging.
+- SayHelloUWP
+- SayHelloWFA
+- SayHelloWPF
 
 ## Contributing
 
