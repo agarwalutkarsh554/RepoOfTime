@@ -4,7 +4,11 @@ A simple Tetris game from [FamTrinli](https://www.youtube.com/channel/UCC7qpnId5
 
 ## Building
 
+Use Visual Studio 2019 to build the project. You need to compile SFML to get the dlls, and libs. You also need to change project setting to target the SFML directory. Set the arch to x64 then compile and build.
+
 ## Usage
+
+You need to put the SFML dlls in the application's directory. Then open the application.
 
 ## Contributing
 

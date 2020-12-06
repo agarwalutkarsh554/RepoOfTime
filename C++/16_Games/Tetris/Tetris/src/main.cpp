@@ -33,7 +33,7 @@ bool check()
 
 int main()
 {
-    srand(time(0));     
+    srand(time(0));
 
     RenderWindow window(VideoMode(320, 480), "The Game!");
 
@@ -124,9 +124,9 @@ int main()
     dx=0; rotate=0; delay=0.3;
 
     /////////draw//////////
-    window.clear(Color::White);    
+    window.clear(Color::White);
     window.draw(background);
-          
+
     for (int i=0;i<M;i++)
      for (int j=0;j<N;j++)
        {
