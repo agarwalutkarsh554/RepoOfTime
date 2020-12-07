@@ -1,16 +1,18 @@
-# DotNetDebugging
+# Calculator
 
 ---
 
-MS DotNetDebugging tutorial. More at docs.microsoft.com/learn
+A calculator console app from C# tutorial for Visual Studio.
+
+## Building
+
+Use Visual Studio 2019 to build the project in Windows. Then click run in the IDE.
 
 ## Usage
 
-```dotnetcli
-dotnet run
+```bash
+calculator.exe
 ```
-
-Use an editor to view the code. Use Visual Studio Code for editing and debugging. Open this folder for a better folder structure in VSC.
 
 ## Contributing
 

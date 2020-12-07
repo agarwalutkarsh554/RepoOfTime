@@ -52,7 +52,6 @@
 *.pdb
 
 # Kernel Module Compile Results
-*.mod*
 *.cmd
 .tmp_versions/
 modules.order
@@ -150,6 +149,9 @@ bld/
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
+
+bin/
+obj/
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
@@ -867,3 +869,4 @@ compile_commands.json
 
 *_qmlcache.qrc
 Java/userdictionary.txt
+.ztr-directory
