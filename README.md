@@ -8,7 +8,7 @@
 
 - [CodingHobby](#codinghobby)
   - [Contributing](#contributing)
-  - [Code of Conduct](#code of conduct)
+  - [Code of Conduct](#code-of-conduct)
   - [License](#license)
 
 <!-- /code_chunk_output -->
