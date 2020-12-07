@@ -10,6 +10,7 @@
 
 - [CodingHobby](#codinghobby)
   - [Contributing](#contributing)
+  - [Code of Conduct](#code of conduct)
   - [License](#license)
 
 <!-- /code_chunk_output -->
@@ -17,6 +18,12 @@
 >>>>>>> 4dab9f2 (Change Readmes)
 Random coding projects that I do sometimes.
 Trying things out or following docs.microsoft.com tutorials.
+This is also a place where people can learn how each languages work and improve
+the code so novices can learn who the code works.
+
+## Code of Conduct
+
+Read CODE_OF_CONDUCT.md before contributing.
 
 ## Contributing
 
