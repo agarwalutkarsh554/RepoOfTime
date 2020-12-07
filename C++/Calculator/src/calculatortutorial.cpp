@@ -19,6 +19,7 @@ int main()
         if (oper == '/' && y == 0)
         {
             std::cout << "Division by 0 exception" << std::endl;
+            continue;
         }
         else
         {
