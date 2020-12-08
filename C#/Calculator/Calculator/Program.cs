@@ -62,7 +62,7 @@ namespace Calculator
 
         public static double Calculate(double a, string oper, double b)
         {
-            double result = 0.0;
+            double result = double.NaN;
             switch (oper)
             {
                 case "+":
