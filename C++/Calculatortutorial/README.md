@@ -1,8 +1,8 @@
-# Calculator
+# Calculatortutorial
 
 ---
 
-A calculator console app from C# tutorial for Visual Studio in C++ for GCC.
+MS Visual Studio C++ Tutorial for GCC/MingW. The code will work in VS2017 and later.
 
 ## Building
 
@@ -40,7 +40,7 @@ Run the app in the terminal.
 calculator
 ```
 
-Press Ctrl-C to exit`
+Press Ctrl-C to exit.
 
 ## Contributing
 
