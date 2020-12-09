@@ -1,7 +1,5 @@
 # Calculator
 
----
-
 The C# Calculator tutorial for VS in Java for Eclipse. Mostly working.
 
 ## Usage
