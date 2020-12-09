@@ -10,7 +10,7 @@ MS DotNetDebugging tutorial. More at docs.microsoft.com/learn
 dotnet run
 ```
 
-Use Visual Studio Code for debugging.
+Use an editor to view the code. Use Visual Studio Code for editing and debugging. Open this folder for a better folder structure in VSC.
 
 ## Contributing
 

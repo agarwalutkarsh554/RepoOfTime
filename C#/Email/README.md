@@ -10,11 +10,11 @@ Use Visual Studio 2019 to build the project in Windows. Use `dotnet build` to bu
 
 ## Usage
 
-```dotnetcli
+```bash
 Email.exe File_Path_Here
 ```
 
-Make sure you edit the info inside the Project.cs file so the contacts are correct.
+Use an editor to view the code. Use Visual Studio Code for a better experience. Open this folder for a better folder structure in your preferred editor. Make sure you edit the info inside the Project.cs file so the contacts are correct.
 
 ## Contributing
 
