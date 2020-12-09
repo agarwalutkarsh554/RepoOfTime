@@ -1,9 +1,12 @@
 # CodingHobby
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 ---
 
+=======
+>>>>>>> 3de1ce0 (Update README.md (#6))
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 
 <!-- code_chunk_output -->
