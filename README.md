@@ -1,11 +1,5 @@
 # CodingHobby
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
----
-
-=======
 >>>>>>> 3de1ce0 (Update README.md (#6))
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 
@@ -17,12 +11,6 @@
   - [License](#license)
 
 <!-- /code_chunk_output -->
-
->>>>>>> 4dab9f2 (Change Readmes)
-Random coding projects that I do sometimes.
-Trying things out or following docs.microsoft.com tutorials.
-This is also a place where people can learn how each languages work and improve
-the code so novices can learn who the code works.
 
 ## Code of Conduct
 
