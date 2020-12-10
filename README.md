@@ -11,6 +11,8 @@
 
 <!-- /code_chunk_output -->
 
+Random coding projects that I do sometimes. You can view and improve the code. This is a place where people can learn to improve their code too.
+
 ## Code of Conduct
 
 Read CODE_OF_CONDUCT.md before contributing.
