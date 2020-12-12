@@ -1,6 +1,6 @@
 # Java
 
-Java projects for eclips and IntelliJ IDEA in this subrepodtory. sub-repository. See the Contributing.md the in root of the repository for contributing.
+Java projects for Eclipse and IntelliJ IDEA in this sub-repository. See the Contributing.md the in root of the repository for contributing.
 
 ## Projects
 
@@ -9,4 +9,4 @@ Java projects for eclips and IntelliJ IDEA in this subrepodtory. sub-repository.
 - HelloWorld
 
 ## Notice
-Any projects that are italicized need to run git submodule update --init --recursive.
+Any projects that are italicized need to run `git submodule update --init --recursive`.
