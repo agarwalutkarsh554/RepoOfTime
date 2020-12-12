@@ -10,7 +10,7 @@
 
 <!-- /TOC -->
 
-C++ projects for Visual Studio, GCC/MingW and cmake. See the Contributing.md the
+C++ projects for Visual Studio, GCC/MingW and cmake. See the [CONTRIBUTING.md](../CONTRIBUTING.md) in the
 in root of the repository for contributing.
 
 ## Projects

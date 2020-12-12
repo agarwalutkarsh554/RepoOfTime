@@ -10,7 +10,7 @@
 
 <!-- /code_chunk_output -->
 
-Java projects for Eclipse in this sub-repository. See the Contributing.md the
+Java projects for Eclipse in this sub-repository. See the [CONTRIBUTING.md](../CONTRIBUTING.md) the
 in root of the repository for contributing.
 
 ## Projects
