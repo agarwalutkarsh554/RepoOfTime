@@ -35,6 +35,7 @@ If applicable, add screenshots to help explain your problem.
 **Target Device (please complete the following information):**
  - Device: [e.g. iPhone6]
  - OS: [e.g. iOS8.1]
+ - Runtime: [e.g. JVM, CLI]
  
 **Additional context**
 Add any other context about the problem here.
