@@ -7,6 +7,9 @@ assignees: ''
 
 ---
 
+**Project**
+Name the project here.
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 
@@ -23,16 +26,15 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+**Host Device and Language (please complete the following information):**
+ - OS: [e.g. Windows 10, MacOS Big Sur, Ubuntu 20.10]
+ - Language: [e.g. C, C++]
+ - IDE/Editor: [e.g. Visual Studio, Vim]
+ - Complier: [e.g. MSBUILD/CL, MINGW/GCC]
 
-**Smartphone (please complete the following information):**
+**Target Device (please complete the following information):**
  - Device: [e.g. iPhone6]
  - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
+ 
 **Additional context**
 Add any other context about the problem here.
