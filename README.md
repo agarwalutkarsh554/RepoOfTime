@@ -27,7 +27,7 @@ License is under the MIT License. See the READMEs and LICENSE in the project's r
 
 MIT License
 
-Copyright (c) 2020 Sam W
+Copyright (c) 2020 Samuel Wu
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
