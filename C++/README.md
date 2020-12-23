@@ -1,15 +1,5 @@
 # C++
 
----
-
-<!-- TOC -->
-
-- [C++](#c)
-  - [Projects](#projects)
-  - [Notice](#notice)
-
-<!-- /TOC -->
-
 C++ projects for Visual Studio, GCC/MingW and cmake. See the [CONTRIBUTING.md](../CONTRIBUTING.md) in the
 in root of the repository for contributing.
 
