@@ -1,12 +1,20 @@
 # Contributors.md
 
-Add yourself in this format:
+The people who help others to learn and keep this repository going.
 
-```markdown
-| Name | Programing Language | Project | Lines | Notes & Contributions |
-```
+## Original Repository Creators and Collaborators
+
+- Sam W twopizza9621536@gmail.com Original Creator
+
+## Maintainers
 
 ## Contributors
 
-| Name | Programing Language | Project | Lines | Notes & Contributions |
-|------|---------------------|---------|-------|-----------------------|
+Add yourself in this format:
+
+```markdown
+| Name | Language | Project | Lines/Features | Notes & Contributions | License |
+```
+
+| Name | Language | Project | Lines/Features | Notes & Contributions | License |
+| ---- | -------- | ------- | -------------- | --------------------- | ------- |

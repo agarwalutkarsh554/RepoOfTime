@@ -870,6 +870,8 @@ compile_commands.json
 *_qmlcache.qrc
 Java/userdictionary.txt
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 .ztr-directory
 
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio, WebStorm and Rider
@@ -945,3 +947,4 @@ fabric.properties
 .idea/caches/build_file_checksums.ser
 =======
 >>>>>>> 8adf6c1 (Update .gitignore)
+>>>>>>> 3de1ce0 (Update README.md (#6))

@@ -1,6 +1,6 @@
 # Calculator
 
-The C# Calculator tutorial for VS is remade in Java. Mostly remade.
+The C# Calculator tutorial for VS in Java for Eclipse. Mostly working.
 
 ## Usage
 
