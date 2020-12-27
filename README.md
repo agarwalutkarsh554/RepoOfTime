@@ -13,11 +13,11 @@ You can also add new projects by checking out a branch and pull a request.
 
 ## Table of Contents
 
-[Code of Conduct](#code-of-conduct)
-[Contributing](#contributing)
-[Authors and acknowledgment](#authors-and-acknowledgment)
-[Maintainers](#maintainers)
-[License](#license)
+- [Code of Conduct](#code-of-conduct)
+- [Contributing](#contributing)
+- [Authors and acknowledgment](#authors-and-acknowledgment)
+- [Maintainers](#maintainers)
+- [License](#license)
 
 ## Code of Conduct
 
